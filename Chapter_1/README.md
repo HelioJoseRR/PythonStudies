@@ -125,7 +125,9 @@ After you've saved your file, enter the following line in the editor:
 
 `print("Hello, World!")`  
 
-To run your program, go to `Run > Run Without Debugging`. A terminal window should open at the bottom of VS Code with "Hello, World!" displayed.
+To run your program, go to `Run > Run Without Debugging`. A terminal window should open at the bottom of VS Code with "Hello, World!" displayed.  
+
+**The code example can be found here: [hello_python.py](./codes/hello_python.py)**
 
 ## Running Python Programs from a Terminal
 
