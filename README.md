@@ -4,4 +4,4 @@ This repository is created to reinforce my studies based on the book ***Python C
 
 The repository is organized by chapters:
 
-1. [Getting Started](./Chapter_1)
+1. [Getting Started](./chapter_1)
