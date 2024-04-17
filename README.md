@@ -11,5 +11,5 @@ The repository is organized by chapters:
 
 Connect with me:
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/helio-jos%C3%A9-70618b282?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAq%2BNDyWSS9ivtII2vq%2B53A%3D%3D)
-- **GitHub**: [Your GitHub Profile](https://github.com/HelioJoseRR)
+- **LinkedIn**: [Helio José](https://www.linkedin.com/in/helio-jos%C3%A9-70618b282?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAq%2BNDyWSS9ivtII2vq%2B53A%3D%3D)
+- **GitHub**: [HelioJoseRR](https://github.com/HelioJoseRR)
