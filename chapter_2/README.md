@@ -140,62 +140,61 @@ You can remove leading or trailing whitespace from strings using the following m
 
 #### Removing Prefixes
 
-It is easily done by using `.removeprefix('prefix')` method.
+It is easily done by using the `.removeprefix('prefix')` method.
 
 ```python
->>>site = htttps://google.com
->>>site.removeprefix('https://')
+site = "https://google.com"
+print(site.removeprefix('https://'))
 
-'google.com'
+# Output: google.com
 ```
 
 > [Try It Yourself 2.3 - 2.8](./codes/)
 
 ### Numbers
 
-Some operations in python
+Here are some operations in Python:
 
-| Symbol | meaning |
-| - | - |
-| `+` | ADD |
-| `-` | SUBTRACT |
-| `*` | MULTIPLY |
-| `/` | DIVIDE |
-| `**` | EXPONENTS |
+| Symbol | Meaning |
+| --- | --- |
+| `+` | Add |
+| `-` | Subtract |
+| `*` | Multiply |
+| `/` | Divide |
+| `**` | Exponents |
 
-#### Integers and floats
+#### Integers and Floats
 
-> When you divide any two numbers, even if they are integers that result in a whole number, you’ll always get a float
+> When you divide any two numbers, even if they are integers that result in a whole number, you’ll always get a float.
 
-> If you mix an integer and a float in any other operation, you’ll get a float as well
+> If you mix an integer and a float in any other operation, you’ll get a float as well.
 
-You can group digits of large numbers with an underscore : `1_000_000` = `1000000`
+You can group digits of large numbers with an underscore for readability: `1_000_000` is equivalent to `1000000`.
 
 #### Constants
 
-> Python doesn’t have built-in constant types, but Python programmers use all capital letters to indicate a variable should be treated as a constant and never be changed
+> Python doesn’t have built-in constant types, but Python programmers use all capital letters to indicate a variable should be treated as a constant and never be changed.
 
 > [Try It Yourself 2.9 and 2.10](./codes/)
 
-## The Zen Of Python
+## The Zen of Python
 
 > Beautiful is better than ugly.  
-Explicit is better than implicit.  
-Simple is better than complex.  
-Complex is better than complicated.  
-Flat is better than nested.  
-Sparse is better than dense.  
-Readability counts.  
-Special cases aren't special enough to break the rules. 
-Although practicality beats purity.  
-Errors should never pass silently.  
-Unless explicitly silenced.  
-In the face of ambiguity, refuse the temptation to guess.  
-There should be one-- and preferably only one --obvious way to do it.  
-Although that way may not be obvious at first unless you're Dutch.  
-Now is better than never.  
-Although never is often better than *right* now.  
-If the implementation is hard to explain, it's a bad idea.  
-If the implementation is easy to explain, it may be a good idea.  
-Namespaces are one honking great idea -- let's do more of those!  
-
+> Explicit is better than implicit.  
+> Simple is better than complex.  
+> Complex is better than complicated.  
+> Flat is better than nested.  
+> Sparse is better than dense.  
+> Readability counts.  
+> Special cases aren't special enough to break the rules.  
+> Although practicality beats purity.  
+> Errors should never pass silently.  
+> Unless explicitly silenced.  
+> In the face of ambiguity, refuse the temptation to guess.  
+> There should be one—and preferably only one—obvious way to do it.  
+> Although that way may not be obvious at first unless you're Dutch.  
+> Now is better than never.  
+> Although never is often better than *right* now.  
+> If the implementation is hard to explain, it's a bad idea.  
+> If the implementation is easy to explain, it may be a good idea.  
+> Namespaces are one honking great idea—let's do more of those!
