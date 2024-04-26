@@ -6,6 +6,7 @@ The repository is organized by chapters:
 
 1. [Getting Started](./chapter_1/README.md)
 2. [Variables and Simple Data Types](./chapter_2/README.md)
+3. [Lorem Ipsum](./chapter_3/README.md)
 
 ---
 

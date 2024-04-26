@@ -3,7 +3,7 @@
 This is the appendix for this chapter:
 
 - [Introduction](#Introduction)
-- [Variable](#variables)
+- [Variables](#variables)
     - [Strings](#strings)
     - [Numbers](#numbers)
 - [The Zen Of Python](#the-zen-of-python)
