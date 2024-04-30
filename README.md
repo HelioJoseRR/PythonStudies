@@ -9,6 +9,7 @@ The repository is organized by chapters:
 3. [Introducing Lists](./chapter_3/README.md)
 4. [Working with Lists](./chapter_4/README.md)
 5. [If statements](./chapter_5/README.md)
+6. [Dictionaries](./chapter_6/README.md)
 
 ---
 
