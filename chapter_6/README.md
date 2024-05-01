@@ -3,6 +3,23 @@
 This is the appendix for this chapter:
 
 1. [Introduction](#introduction)
+2. [A Simple Dictionary](#a-simple-dictionary)
+3. [Working with Dictionaries](#working-with-dictionaries)
+    - [Accessing Values in a Dictionary](#accessing-values-in-a-dictionary)
+    - [Adding New Key-Value Pairs](#adding-new-key-value-pairs)
+    - [Starting with an Empty Dictionary](#starting-with-an-empty-dictionary)
+    - [Modifying Values in a Dictionary](#modifying-values-in-a-dictionary)
+    - [Removing Key-Value Pairs](#removing-key-value-pairs)
+    - [Using get() to Access Values](#using-get-to-access-values)
+4. [Looping Through a Dictionary](#looping-through-a-dictionary)
+    - [Looping Through All Key-Value Pairs](#looping-through-all-key-value-pairs)
+    - [Looping Through All the Keys in a Dictionary](#looping-through-all-the-keys-in-a-dictionary)
+    - [Looping Through a Dictionary’s Keys in a Particular Order](#looping-through-a-dictionarys-keys-in-a-particular-order)
+    - [Looping Through All Values in a Dictionary](#looping-through-all-values-in-a-dictionary)
+5. [Nesting](#nesting)
+    - [A List of Dictionaries](#a-list-of-dictionaries)
+    - [A List in a Dictionary](#a-list-in-a-dictionary)
+    - [A Dictionary in a Dictionary](#a-dictionary-in-a-dictionary)  
 
 You can also find the codes from this section in the [codes](./codes) directory.  
 
