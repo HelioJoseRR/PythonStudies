@@ -11,6 +11,7 @@ The repository is organized by chapters:
 5. [If statements](./chapter_5/README.md)
 6. [Dictionaries](./chapter_6/README.md)
 7. [User Input and While Loops](./chapter_7/README.md)
+8. [Functions](./chapter_8/README.md)
 
 ---
 
