@@ -1,8 +1,11 @@
-## Classes
+# Classes
 
 This is the appendix for this chapter:
 
 1. [Introduction](#introduction)
+2. [Creating and Using a Class](#creating-and-using-a-class)
+3. [Working with Classes and Instances](#working-with-classes-and-instances)
+4. [Inheritance](#inheritance)  
 
 You can also find the codes from this section in the [codes](./codes) directory.  
 
