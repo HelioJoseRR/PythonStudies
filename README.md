@@ -4,16 +4,23 @@ This repository is created to reinforce my studies based on the book ***Python C
 
 The repository is organized by chapters:
 
-1. [Getting Started](./chapter_1/README.md)
-2. [Variables and Simple Data Types](./chapter_2/README.md)
-3. [Introducing Lists](./chapter_3/README.md)
-4. [Working with Lists](./chapter_4/README.md)
-5. [If statements](./chapter_5/README.md)
-6. [Dictionaries](./chapter_6/README.md)
-7. [User Input and While Loops](./chapter_7/README.md)
-8. [Functions](./chapter_8/README.md)
-9. [Classes](./chapter_9/)  
-10. [Files and Exceptions](./chapter_10/README.md)
+## Part 1
+
+1. [Getting Started](./Parte_1/chapter_1/README.md)
+2. [Variables and Simple Data Types](./Parte_1/chapter_2/README.md)
+3. [Introducing Lists](./Parte_1/chapter_3/README.md)
+4. [Working with Lists](./Parte_1/chapter_4/README.md)
+5. [If statements](./Parte_1/chapter_5/README.md)
+6. [Dictionaries](./Parte_1/chapter_6/README.md)
+7. [User Input and While Loops](./Parte_1/chapter_7/README.md)
+8. [Functions](./Parte_1/chapter_8/README.md)
+9. [Classes](./Parte_1/chapter_9/README.md)  
+10. [Files and Exceptions](./Parte_1/chapter_10/README.md)
+11. [](./Parte_1/chapter_11/README.md)  
+
+## Part 2  
+
+
 
 ---
 
