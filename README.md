@@ -16,10 +16,17 @@ The repository is organized by chapters:
 8. [Functions](./Parte_1/chapter_8/README.md)
 9. [Classes](./Parte_1/chapter_9/README.md)  
 10. [Files and Exceptions](./Parte_1/chapter_10/README.md)
-11. [](./Parte_1/chapter_11/README.md)  
+11. [Testing your Code](./Parte_1/chapter_11/README.md)  
 
 ## Part 2  
 
+### Alien Invasion  
+
+1. [A Ship That Fires Bullets](./Parte_2/Alien%20Invasion/)  
+
+### Data Visualization  
+
+### Web Applications  
 
 
 ---
