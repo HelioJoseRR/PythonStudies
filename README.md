@@ -24,11 +24,6 @@ The repository is organized by chapters:
 
 1. [A Ship That Fires Bullets](./Parte_2/Alien%20Invasion/)  
 
-### Data Visualization  
-
-### Web Applications  
-
-
 ---
 
 Connect with me:
